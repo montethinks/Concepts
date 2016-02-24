@@ -2,11 +2,12 @@
 
 1. x = 2 
 
-# nil
+# 2
 
 2. puts x = 2 
 
-# 2
+# => 2 
+# nil
 
 3. p name = "Joe"
 
@@ -14,7 +15,7 @@
 
 4. four = "four"
 
-# nil
+# four
 
 5. print something = "nothing"
 
